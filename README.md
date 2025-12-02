@@ -10,8 +10,6 @@
 
 **Advanced Bash Shell Script Point-of-Sale System with Complete Restaurant Management Features**
 
-[![Download Script](https://img.shields.io/badge/📥_Download_Script-zip_file-success?style=for-the-badge)](https://github.com/yourusername/rahman-fast-food/archive/refs/heads/main.zip)
-[![Try Online](https://img.shields.io/badge/🖥️_Try_in_Browser-Replit-blue?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@yourusername/rahman-fast-food)
 
 </div>
 
