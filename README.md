@@ -135,14 +135,10 @@ graph TB
 <div align="center">
 
 ### Main Interface
-| Main Menu | Order Screen | Admin Panel |
-|-----------|--------------|-------------|
-| ![Main Menu](https://github.com/user-attachments/assets/01777008-d04f-47f5-b4b4-e039b90a57b5) | ![Order Screen](https://via.placeholder.com/400x250/4CAF50/ffffff?text=Order+Interface) | ![Admin Panel](https://via.placeholder.com/400x250/2196F3/ffffff?text=Admin+Dashboard) |
+| Main Menu | 
+|-----------|
+| ![Main Menu](https://github.com/user-attachments/assets/01777008-d04f-47f5-b4b4-e039b90a57b5) | 
 
-### Additional Views
-| Receipt Generation | Inventory View | Sales Reports |
-|-------------------|----------------|---------------|
-| ![Receipt](https://via.placeholder.com/400x250/FF9800/ffffff?text=PDF+Receipt) | ![Inventory](https://via.placeholder.com/400x250/795548/ffffff?text=Inventory+Management) | ![Reports](https://via.placeholder.com/400x250/9C27B0/ffffff?text=Sales+Analytics) |
 
 </div>
 
